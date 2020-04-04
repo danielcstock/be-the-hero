@@ -1,0 +1,1 @@
+Aplicativo BeTheHero, desenvolvido durante a semana OmniStack 11.

@@ -23,6 +23,8 @@ routes.post('/incidents', IncidentController.create);
 // Apagar caso
 routes.delete('/incidents/:id', IncidentController.delete);
 
+// Listar todos os casos
+routes.get('/profile', ProfileController.index);
 
 routes.post('/sessions', SessionController.create);
 

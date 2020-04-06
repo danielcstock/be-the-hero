@@ -16,8 +16,6 @@ module.exports = {
         });
 
         return response.json({ id });
-
-        return response.json();
     },
     async index(request, response){
         const { page = 1} = request.query;
